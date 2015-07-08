@@ -1,0 +1,100 @@
+Code,Country,County/State,Postcode/Zip,Rate,Zip/Post is Range,Range From,Range To,default
+Austria - Reduced Rate,AT,*,,5,,,,UK VAT
+Austria - Standard,AT,*,,20,,,,UK VAT
+Austria - Zero Rate,AT,*,,0,,,,UK VAT
+Belgium - Reduced Rate,BE,*,,5,,,,UK VAT
+Belgium - Standard,BE,*,,20,,,,UK VAT
+Belgium - Zero Rate,BE,*,,0,,,,UK VAT
+Bulgaria - Reduced Rate,BG,*,,5,,,,UK VAT
+Bulgaria - Standard,BG,*,,20,,,,UK VAT
+Bulgaria - Zero Rate,BG,*,,0,,,,UK VAT
+Croatia - Reduced Rate,HR,*,,5,,,,UK VAT
+Croatia - Standard,HR,*,,20,,,,UK VAT
+Croatia - Zero Rate,HR,*,,0,,,,UK VAT
+Cyprus - Reduced Rate,CY,*,,5,,,,UK VAT
+Cyprus - Standard,CY,*,,20,,,,UK VAT
+Cyprus - Zero Rate,CY,*,,0,,,,UK VAT
+Czech Republic - Reduced Rate,CZ,*,,5,,,,UK VAT
+Czech Republic - Standard,CZ,*,,20,,,,UK VAT
+Czech Republic - Zero Rate,CZ,*,,0,,,,UK VAT
+Denmark - Reduced Rate,DK,*,,5,,,,UK VAT
+Denmark - Standard,DK,*,,20,,,,UK VAT
+Denmark - Zero Rate,DK,*,,0,,,,UK VAT
+Estonia - Reduced Rate,EE,*,,5,,,,UK VAT
+Estonia - Standard,EE,*,,20,,,,UK VAT
+Estonia - Zero Rate,EE,*,,0,,,,UK VAT
+Finland - Reduced Rate,FI,*,,5,,,,UK VAT
+Finland - Standard,FI,*,,20,,,,UK VAT
+Finland - Zero Rate,FI,*,,0,,,,UK VAT
+France - Reduced Rate,FR,*,,5,,,,UK VAT
+France - Standard,FR,*,,20,,,,UK VAT
+France - Zero Rate,FR,*,,0,,,,UK VAT
+Germany - Reduced Rate,DE,*,,5,,,,UK VAT
+Germany - Standard,DE,*,,20,,,,UK VAT
+Germany - Zero Rate,DE,*,,0,,,,UK VAT
+Greece - Reduced Rate,GR,*,,5,,,,UK VAT
+Greece - Standard,GR,*,,20,,,,UK VAT
+Greece - Zero Rate,GR,*,,0,,,,UK VAT
+Hungary - Reduced Rate,HU,*,,5,,,,UK VAT
+Hungary - Standard,HU,*,,20,,,,UK VAT
+Hungary - Zero Rate,HU,*,,0,,,,UK VAT
+Ireland - Reduced Rate,IE,*,,5,,,,UK VAT
+Ireland - Standard,IE,*,,20,,,,UK VAT
+Ireland - Zero Rate,IE,*,,0,,,,UK VAT
+Isle of Man - Reduced Rate,IM,*,,5,,,,UK VAT
+Isle of Man - Standard,IM,*,,20,,,,UK VAT
+Isle of Man - Zero Rate,IM,*,,0,,,,UK VAT
+Italy - Reduced Rate,IT,*,,5,,,,UK VAT
+Italy - Standard,IT,*,,20,,,,UK VAT
+Italy - Zero Rate,IT,*,,0,,,,UK VAT
+Latvia - Reduced Rate,LV,*,,5,,,,UK VAT
+Latvia - Standard,LV,*,,20,,,,UK VAT
+Latvia - Zero Rate,LV,*,,0,,,,UK VAT
+Lithuania - Reduced Rate,LT,*,,5,,,,UK VAT
+Lithuania - Standard,LT,*,,20,,,,UK VAT
+Lithuania - Zero Rate,LT,*,,0,,,,UK VAT
+Luxembourg - Reduced Rate,LU,*,,5,,,,UK VAT
+Luxembourg - Standard,LU,*,,20,,,,UK VAT
+Luxembourg - Zero Rate,LU,*,,0,,,,UK VAT
+Malta - Reduced Rate,MT,*,,5,,,,UK VAT
+Malta - Standard,MT,*,,20,,,,UK VAT
+Malta - Zero Rate,MT,*,,0,,,,UK VAT
+Netherlands - Reduced Rate,NL,*,,5,,,,UK VAT
+Netherlands - Standard,NL,*,,20,,,,UK VAT
+Netherlands - Zero Rate,NL,*,,0,,,,UK VAT
+Poland - Reduced Rate,PL,*,,5,,,,UK VAT
+Poland - Standard,PL,*,,20,,,,UK VAT
+Poland - Zero Rate,PL,*,,0,,,,UK VAT
+Portugal - Reduced Rate,PT,*,,5,,,,UK VAT
+Portugal - Standard,PT,*,,20,,,,UK VAT
+Portugal - Zero Rate,PT,*,,0,,,,UK VAT
+Romania - Reduced Rate,RO,*,,5,,,,UK VAT
+Romania - Standard,RO,*,,20,,,,UK VAT
+Romania - Zero Rate,RO,*,,0,,,,UK VAT
+Slovakia - Reduced Rate,SK,*,,5,,,,UK VAT
+Slovakia - Standard,SK,*,,20,,,,UK VAT
+Slovakia - Zero Rate,SK,*,,0,,,,UK VAT
+Slovenia - Reduced Rate,SI,*,,5,,,,UK VAT
+Slovenia - Standard,SI,*,,20,,,,UK VAT
+Slovenia - Zero Rate,SI,*,,0,,,,UK VAT
+Spain - Reduced Rate,ES,*,,5,,,,UK VAT
+Spain - Standard,ES,*,,20,,,,UK VAT
+Spain - Zero Rate,ES,*,,0,,,,UK VAT
+Spain (Ceuta) - Reduced Rate,ES,Ceuta,,5,,,,UK VAT
+Spain (Ceuta) - Standard,ES,Ceuta,,20,,,,UK VAT
+Spain (Ceuta) - Zero Rate,ES,Ceuta,,0,,,,UK VAT
+Spain (Las Palmas) - Reduced Rate,ES,Las Palmas,,5,,,,UK VAT
+Spain (Las Palmas) - Standard,ES,Las Palmas,,20,,,,UK VAT
+Spain (Las Palmas) - Zero Rate,ES,Las Palmas,,0,,,,UK VAT
+Spain (Melilla) - Reduced Rate,ES,Melilla,,5,,,,UK VAT
+Spain (Melilla) - Standard,ES,Melilla,,20,,,,UK VAT
+Spain (Melilla) - Zero Rate,ES,Melilla,,0,,,,UK VAT
+Spain (Tenerife) - Reduced Rate,ES,Santa Cruz de Tenerife,,5,,,,UK VAT
+Spain (Tenerife) - Standard,ES,Santa Cruz de Tenerife,,20,,,,UK VAT
+Spain (Tenerife) - Zero Rate,ES,Santa Cruz de Tenerife,,0,,,,UK VAT
+Sweden - Reduced Rate,SE,*,,5,,,,UK VAT
+Sweden - Standard,SE,*,,20,,,,UK VAT
+Sweden - Zero Rate,SE,*,,0,,,,UK VAT
+United Kingdom - Reduced Rate,GB,*,,5,,,,UK VAT
+United Kingdom - Standard,GB,*,,20,,,,UK VAT
+United Kingdom - Zero Rate,GB,*,,0,,,,UK VAT
